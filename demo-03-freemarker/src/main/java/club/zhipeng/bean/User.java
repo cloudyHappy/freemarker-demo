@@ -2,6 +2,8 @@ package club.zhipeng.bean;
 
 public class User {
 	private String username;
+	private String age;
+	private int h;
 	private String password;
 	private String address;
 	public String getUsername() {
